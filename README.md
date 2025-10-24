@@ -99,5 +99,4 @@ You are free to share and adapt this work for non-commercial purposes with attri
 
 **Ashley Mitchell**  
 
-Pittsburgh, Pennsylvania  
-*(Views expressed are those of the author and do not represent official DOI policy.)*
+Pittsburgh, Pennsylvania 
