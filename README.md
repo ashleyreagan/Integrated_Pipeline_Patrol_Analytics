@@ -3,7 +3,7 @@
 ### Modernizing Aerial Pipeline Integrity Monitoring Through Geospatial Automation
 
 **Author:** Ashley Mitchell  
-**Affiliation:** U.S. Department of the Interior – Office of Surface Mining Reclamation and Enforcement (DOI)  
+
 **Location:** Pittsburgh, Pennsylvania  
 **Date:** October 2025  
 **Status:** Concept & White Paper Release
