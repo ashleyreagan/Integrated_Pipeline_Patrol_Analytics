@@ -77,7 +77,7 @@ If referencing this work, please cite as:
 
 > Mitchell, A. (2025). *Integrated Aerial Pipeline Patrol Analytics System (IPPAS):  
 > From GPS Tracks to Real-Time Leak Detection and HCA Intelligence.*  
-> DOI (forthcoming). GitHub Repository: https://github.com/ashleyreagan/IPPAS
+> DOI (forthcoming). GitHub Repository: [https://github.com/ashleyreagan/Integrated_Pipeline_Patrol_Analytics]
 
 ---
 
